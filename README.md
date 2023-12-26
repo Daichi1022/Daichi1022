@@ -7,6 +7,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Isaka-code&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+![](https://raw.githubusercontent.com/Daichi1022/Daichi1022/output/github-contribution-grid-snake.svg)
 
 
 
